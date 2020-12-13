@@ -33,14 +33,14 @@ git clone https://github.com/BTalamantesBecerra/omicR.git
 
 Running omicR
 
-Alternative 1:
+*Alternative 1:
 
 -Open the script “omicR.py” using the IDLE and run it.
 
 -This will open a window where you can run the scripts. 
 
-Alternative 2:
-- Open the script from the command line, Move directories to the location where you downloaded the script and run it:
+*Alternative 2:
+- Open the script from the command line. Move directories to the location where you downloaded the script and run it:
 
 python3 omicR.py
 
