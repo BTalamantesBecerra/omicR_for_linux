@@ -11,9 +11,13 @@ Watch the tutorial video in YouTube omicR with Graphical User Interface (~20 min
 
 You need to install the following:
 
-a.	Python V3 or latest: https://www.python.org/downloads/
+a.	Python V3 or latest: https://www.python.org/downloads/ with module tkinter 
+Python3.7 or above has tkinter intalled, if not you can install it with:
+
+sudo apt-get install python3-tk
 
 b.	Biopython: https://biopython.org/
+python3.8 -m pip install biopython
 
 c.	omicR: https://github.com/BTalamantesBecerra/omicR Download the following files from GitHub: “omicR.py” and “Currito.ico” and save them in your python working directory. 
 
@@ -26,3 +30,14 @@ d. BLAST+ latest version: https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/
 
 As general practice avoid installing your software in directories such as “C://Program files/” as the space between words will cause problems. 
 Remember to add all the software you install into your System Variables Path. 
+
+
+Dowloading code:
+
+git clone https://github.com/BTalamantesBecerra/omicR.git
+
+biopython
+
+
+
+
