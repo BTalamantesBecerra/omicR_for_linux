@@ -24,19 +24,33 @@ c.	omicR: https://github.com/BTalamantesBecerra/omicR Download the following fil
 d. BLAST+ latest version: https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ 
 
 
--Open the script “omicR.py” in Python and run it.
-
--This will open a window where you can run the scripts. 
-
-As general practice avoid installing your software in directories such as “C://Program files/” as the space between words will cause problems. 
-Remember to add all the software you install into your System Variables Path. 
-
 
 Dowloading code:
 
 git clone https://github.com/BTalamantesBecerra/omicR.git
 
-biopython
+
+
+Running omicR
+
+Alternative 1:
+
+-Open the script “omicR.py” using the IDLE and run it.
+
+-This will open a window where you can run the scripts. 
+
+Alternative 2:
+- Open the script from the command line, Move directories to the location where you downloaded the script and run it:
+
+python3 omicR.py
+
+-This will open a window where you can run the scripts. 
+
+As general practice avoid installing your software in directories such as “C://Program files/” as the space between words will cause problems. 
+ 
+
+
+
 
 
 
