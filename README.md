@@ -47,6 +47,8 @@ python3 omicR.py
 -This will open a window where you can run the scripts. 
 
 As general practice avoid installing your software in directories such as “C://Program files/” as the space between words will cause problems. 
+
+For usage, please refer to the file "OmicR_User_guide.pdf" available in this repository.
  
 
 
